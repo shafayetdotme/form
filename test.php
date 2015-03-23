@@ -20,6 +20,8 @@ div.transbox p {
 </head>
 <body background="bootstrap\image\background.jpg">
 
+<h1>Git Test</h1>
+
 <div class="background">
   <div class="transbox">
     <p style="font-size:54px;text-align:center;opacity:0.99;color:#0D0D0D;">This is some text that is placed in the transparent box.</p>
